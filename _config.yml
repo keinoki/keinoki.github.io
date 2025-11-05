@@ -49,13 +49,13 @@ chart: false
 paginate: 10
 paginate_path: /page:num
 
-sources: bootcdn
+sources: unpkg
 
 comments:
   provider: disqus
 
   disqus:
-    shortname: keyiyin
+    shortname: keinoki
 
 
 search:
