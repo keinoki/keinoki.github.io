@@ -52,11 +52,7 @@ paginate_path: /page:num
 sources: unpkg
 
 comments:
-  provider: disqus
-
-  disqus:
-    shortname: keinoki
-
+  provider:
 
 search:
   provider: default
