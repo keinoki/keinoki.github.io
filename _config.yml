@@ -4,7 +4,7 @@ text_skin: default
 highlight_theme: tomorrow-night
 url     : 
 baseurl : 
-title   : Keyi Yin 的博客
+title   : Keinoki 的博客
 description: >
   You see see you. 
 
@@ -15,15 +15,15 @@ timezone: Asia/Shanghai
 
 author:
   type      : person
-  name      : Keyi Yin 
-  url       : https://github.com/keyiyin
+  name      : keinoki
+  url       : https://github.com/keinoki
   avatar    : 
-  email     : keyi_yin@outlook.com
-  github    : keyiyin
+  email     : ikoniek@outlook.com
+  github    : keinoki
   start_working_date: 2019-7
 
 
-repository: keyiyin/keyiyin.github.io
+repository: keinoki/keinoki.github.io
 repository_tree: master
 
 paths:
